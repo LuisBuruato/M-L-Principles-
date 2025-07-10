@@ -1,53 +1,41 @@
-# Análisis de Clustering y Segmentación de Vehículos y Clientes
+#Clustering and Segmentation Analysis of Vehicles and Customers
+Project Summary
+This project focuses on clustering analysis using data from vehicles and customers to identify groups with similar characteristics. Techniques such as normalization, distance matrix calculation, hierarchical and agglomerative clustering were applied, along with visualizations to interpret the results.
 
-## Resumen del Análisis
+Customer Segmentation (K-Means)
+Segmentation into 3 clusters based on Age, Education, and Income.
 
-En este proyecto se realizó un análisis de clustering utilizando datos de vehículos y clientes para identificar grupos con características similares. Se aplicaron técnicas de normalización, cálculo de distancias, clustering jerárquico y aglomerativo, y se generaron visualizaciones para interpretar los resultados.
+2D and 3D visualizations to understand grouping behavior.
 
----
+2D Visualization of Customer Segmentation
 
-## Segmentación de Clientes (K-Means)
 
-- Segmentación en 3 clusters basada en Edad, Educación e Ingreso.
-- Visualización 2D y 3D para entender agrupamientos.
+3D Visualization of Customer Segmentation
 
-### Visualización 2D de Segmentación de Clientes
-![Clientes por Edad e Ingreso](https://raw.githubusercontent.com/LuisBuruato/M-L-Principles-/main/images/clientes_edad_ingreso.png)
 
-### Visualización 3D de Segmentación de Clientes
+Vehicle Clustering Analysis
+Data cleaning and normalization of relevant variables.
 
-![Segmentación 3D](https://raw.githubusercontent.com/LuisBuruato/M-L-Principles-/main/images/3D_customer_segmentation.png)
+Calculation of Euclidean distance matrix.
 
----
+Hierarchical and agglomerative clustering to group vehicles.
 
-## Análisis y Clustering de Vehículos
+Cluster assignment added to the dataset.
 
-- Limpieza y normalización de variables relevantes.
-- Cálculo de matriz de distancias euclidianas.
-- Clustering jerárquico y aglomerativo para agrupar vehículos.
-- Asignación de clusters en el dataset.
+Hierarchical Clustering Dendrogram
 
-### Dendrograma de Clustering Jerárquico
 
-![Dendrograma](images/dendrogram.png)
+Vehicle Clusters Scatter Plot
+X-axis: Horsepower (horsepow)
+Y-axis: Fuel Efficiency (mpg)
+Point Size: Price (price)
+Color: Assigned Cluster
+Each point is labeled with the vehicle model.
 
-### Scatter Plot de Clusters de Vehículos
 
-Eje X: Potencia (`horsepow`)  
-Eje Y: Consumo (`mpg`)  
-Tamaño: Precio (`price`)  
-Color: Cluster asignado  
-Modelo etiquetado para cada punto.
-![Clusters de Vehículos](https://raw.githubusercontent.com/LuisBuruato/M-L-Principles-/main/images/clusters_scatter.png)
 
----
+Conclusion
+The analysis allowed for the identification of homogeneous groups of customers and vehicles, supporting more effective segmentation strategies and personalized marketing.
 
-## Conclusión
-
-El análisis permitió identificar grupos homogéneos de clientes y vehículos, facilitando estrategias de segmentación y marketing personalizado.
-
----
-
-## Cómo ejecutar
-
-Ejecuta el notebook `machine_learning.ipynb` con las librerías necesarias instaladas para reproducir el análisis y generar los gráficos.
+How to Run
+Open and run the notebook machine_learning.ipynb with the required libraries installed to reproduce the full analysis and generate the charts.
