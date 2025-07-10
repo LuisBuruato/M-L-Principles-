@@ -12,8 +12,7 @@ En este proyecto se realizó un análisis de clustering utilizando datos de veh�
 - Visualización 2D y 3D para entender agrupamientos.
 
 ### Visualización 2D de Segmentación de Clientes
-
-![Segmentación 2D](images/customer_segmentation_2d.png)
+![Clientes por Edad e Ingreso](https://raw.githubusercontent.com/LuisBuruato/M-L-Principles-/main/images/clientes_edad_ingreso.png)
 
 ### Visualización 3D de Segmentación de Clientes
 
