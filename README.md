@@ -17,7 +17,7 @@ En este proyecto se realizó un análisis de clustering utilizando datos de veh�
 
 ### Visualización 3D de Segmentación de Clientes
 
-![Segmentación 3D](images/customer_segmentation_3d.png)
+![Segmentación 3D](https://raw.githubusercontent.com/LuisBuruato/M-L-Principles-/main/images/3D_customer_segmentation.png)
 
 ---
 
