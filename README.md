@@ -39,8 +39,7 @@ Eje Y: Consumo (`mpg`)
 Tamaño: Precio (`price`)  
 Color: Cluster asignado  
 Modelo etiquetado para cada punto.
-
-![Clusters de Vehículos](https://raw.githubusercontent.com/LuisBuruato/M-L-Principles-/main/images/vehicle_clusters.png)
+![Clusters de Vehículos](https://raw.githubusercontent.com/LuisBuruato/M-L-Principles-/main/images/clusters_scatter.png)
 
 ---
 
