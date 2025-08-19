@@ -22,7 +22,7 @@ This 2D scatter plot shows the segmentation of customers using **Age (X-axis)** 
 - Another cluster groups **middle-aged customers with moderate income**.  
 - The last cluster identifies **older customers with higher income**, representing more established professionals.  
 
-**Conclusion:**  
+✅ Key Takeaways 
 The segmentation reveals a clear differentiation in customer profiles, which can be used to design **targeted campaigns** such as student discounts, family-oriented promotions, or premium services.
 
 ---
@@ -37,7 +37,7 @@ The 3D visualization adds **Education level** as the third dimension, providing 
 - The plot shows that higher education levels correlate with higher income and age.  
 - Customers with lower education levels tend to fall into lower-income clusters.  
 
-**Conclusion:**  
+✅ Key Takeaways 
 The inclusion of education strengthens the segmentation strategy, as it highlights how **education and income jointly define customer groups**. This insight can guide strategies like offering **financial products** for professionals or **training-related offers** for younger groups.
 
 ---
@@ -57,7 +57,7 @@ The dendrogram illustrates how vehicles are progressively grouped based on their
 - Vehicles with **similar horsepower and efficiency** were grouped early.  
 - Distinct clusters formed between **fuel-efficient compact cars** and **powerful, high-priced vehicles**.  
 
-**Conclusion:**  
+✅ Key Takeaways  
 The dendrogram helps decide the **optimal number of clusters** and reveals natural hierarchies in the data, such as the distinction between **economical vs. luxury vehicles**.
 
 ---
@@ -79,7 +79,7 @@ This scatter plot visually displays vehicle clusters:
 - **Cluster 2:** Vehicles with **moderate horsepower and balanced fuel efficiency**, representing mid-range family cars.  
 - **Cluster 3:** Vehicles with **high horsepower, low fuel efficiency, and high prices**, representing luxury or sports models.  
 
-**Conclusion:**  
+✅ Key Takeaways  
 This segmentation allows manufacturers and dealerships to **differentiate product strategies**:  
 - Compact cars can be marketed as **eco-friendly and affordable**.  
 - Mid-range vehicles appeal to **families and everyday drivers**.  
