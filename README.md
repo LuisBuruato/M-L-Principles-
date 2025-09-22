@@ -1,4 +1,4 @@
-# Clustering and Segmentation Analysis of Customers
+# Clustering and Segmentation Analysis of Customers and Vehicles.
 
 ## Project Summary
 
