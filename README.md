@@ -1,4 +1,4 @@
-# Clustering and Segmentation Analysis of Vehicles and Customers
+# Clustering and Segmentation Analysis of Customers
 
 ## Project Summary
 
@@ -42,10 +42,7 @@ The inclusion of education strengthens the segmentation strategy, as it highligh
 
 ---
 
-## Vehicle Clustering Analysis
 
-The vehicle dataset was analyzed to uncover patterns in technical and economic attributes.  
-After normalization, a **Euclidean distance matrix** was computed, followed by hierarchical and agglomerative clustering.  
 
 ### Hierarchical Clustering Dendrogram
 
