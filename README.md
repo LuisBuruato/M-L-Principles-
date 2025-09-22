@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-This project applies clustering techniques to analyze customers and vehicles, aiming to uncover natural groupings and meaningful insights. Methods such as normalization, distance matrix calculation, hierarchical clustering, and K-Means were applied, accompanied by visualizations for interpretation.  
+This project applies clustering techniques to analyze customers behaviours, aiming to uncover natural groupings and meaningful insights. Methods such as normalization, distance matrix calculation, hierarchical clustering, and K-Means were applied, accompanied by visualizations for interpretation.  
 
 ---
 
